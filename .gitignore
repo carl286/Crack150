@@ -1,0 +1,9 @@
+*.iml
+*.swp
+*.DS_Store
+/.idea/
+out/
+
+# emacs
+\#*\#
+.\#*
